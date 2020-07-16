@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922257189464",
+    "firebase_url": "https://flutter-great-places-3b375.firebaseio.com",
+    "project_id": "flutter-great-places-3b375",
+    "storage_bucket": "flutter-great-places-3b375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922257189464:android:24cfcf8152579bf890782d",
+        "android_client_info": {
+          "package_name": "com.ramonsilva.greatplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922257189464-6m2l601aqnos9e1dd4krn6bqqru68pho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjZHCXJPTJHsWGVzgljjv8bwCC1pHZ94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922257189464-6m2l601aqnos9e1dd4krn6bqqru68pho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
