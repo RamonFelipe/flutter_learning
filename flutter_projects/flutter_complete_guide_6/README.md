@@ -1,4 +1,4 @@
-# flutter_complete_guide_6
+# Chat
 
 A new Flutter project.
 
